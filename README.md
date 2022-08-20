@@ -1,5 +1,8 @@
 <div align="center">
   <h1 align="center">👋 Hi! It's me and my profile!</h1>
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=longtoZ&color=green&style=flat-square)
+  
   <img  src="https://raw.githubusercontent.com/longtoZ/longtoZ/main/github-contribution-grid-snake.svg"
      alt="snake" /></a>
 </div>
