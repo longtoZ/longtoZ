@@ -9,7 +9,7 @@
 
 ## 📊 Github stats
 
-[![Nautilus's GitHub stats](https://github-readme-stats.vercel.app/api?username=longtoZ&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/longtoZ/github-readme-stats)
+[![Nautilus's GitHub stats](https://github-readme-stats.vercel.app/api?username=longtoZ&show_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/longtoZ/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longtoZ&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/longtoZ/github-readme-stats)
 
