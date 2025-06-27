@@ -23,7 +23,7 @@
 ## :bulb: Things that I am used to
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,js,py,dart,html,tailwind,materialui,react,flask,nodejs,selenium,jupyter,mysql,mongodb,git,md,linux&perline=6" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,js,ts,python,html,tailwind,materialui,react,flask,nodejs,selenium,jupyter,mysql,mongodb,git,solana,kali&perline=6" />
   </a>
 </p>
 
