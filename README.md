@@ -51,8 +51,18 @@ Building creative automation and multi-agent systems that solve real-world probl
 
 ## My Github stats
 
-[![Nautilus's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=longtoZ&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true)](https://github.com/longtoZ)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=longtoZ&layout=compact&langs_count=15&theme=gotham&hide_border=true)](https://github.com/longtoZ)
-[![GitHub Streak](https://streak-stats.demolab.com?user=longtoZ&theme=gotham&hide_border=true)](https://github.com/longtoZ)
+<a href="https://github.com/longtoZ">
+	<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=longtoZ&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Nautilus's GitHub stats" />
+</a>
 
-[![Long To's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=longtoZ&theme=github-compact&hide_border=true)](https://github.com/longtoZ)
+<a href="https://github.com/longtoZ">
+	<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=longtoZ&layout=compact&langs_count=10&theme=gotham&hide_border=true" alt="Top languages" />
+</a>
+
+<a href="https://github.com/longtoZ">
+	<img width="100%" src="https://streak-stats.demolab.com?user=longtoZ&theme=gotham&hide_border=true" alt="GitHub streak" />
+</a>
+
+<a href="https://github.com/longtoZ">
+	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=longtoZ&theme=github-compact&hide_border=true" alt="Long To's github activity graph" />
+</a>
